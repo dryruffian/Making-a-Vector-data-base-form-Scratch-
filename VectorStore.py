@@ -1,4 +1,4 @@
-mport numpy as np  # Importing numpy for numerical operations
+import numpy as np  # Importing numpy for numerical operations
 
 
 class VectorStore:
